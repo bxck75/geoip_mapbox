@@ -5,8 +5,8 @@
 if [[ $1 -eq 1 ]]; then
     echo "Runnin censys for 100 targets"
     censys_io.py GoAhead \
-      --api_id=9b75e432-84ab-4fd0-ba94-7a71b303a774 \
-      --api_secret=r5QNSHtB0QF4pN8SXWgbKyGKb1J0LcGX \
+      --api_id=<own censys.io api> \
+      --api_secret=<own censys.io api>  \
       --limit 100 --tsv -f ip,protocols |grep "\/http" \
        > Goahead_targets.json
     
