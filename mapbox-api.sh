@@ -1,6 +1,6 @@
 #!/bin/bash
 #https://github.com/mapbox/mapbox-cli-py
-export MAPBOX_ACCESS_TOKEN=sk.eyJ1IjoiYnhjazc1IiwiYSI6ImNqZWp2dGdodjA2enEzMm1nbXM2bmdvMzUifQ.g-hZvfVrMpEpb3bmjV_zGQ
+export MAPBOX_ACCESS_TOKEN=<own token>
 
 function ListDataSet(){
 	#Result=$(mapbox datasets list |awk -F ',' '{print $2}'|awk -F ':' '{print $2}'|tr -d "\"")
