@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Draw GeoJSON points</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiYnhjazc1IiwiYSI6ImNqZWk4ZnoyZjN0ZWcyeW8zMHNtNzlrdTQifQ.xU7JnPbxrlcayxnttXOrMQ';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/bxck75/cjeiovu4v42lt2rqwdmkmw8hq',
+    style: 'mapbox://styles/bxck75/cjeiy1jty81ut2rp10jo4ja7s',
+    center: [6.78,52.29],
+    zoom: 7
+});
+
+map.on('load', function () {
+
+    map.addLayer({
+        "id": "points",
+        "type": "symbol",
+        "source": {
+            "type": "geojson",
+            "data": __REPLACE_THIS__},
+        "layout":{
+                "icon-image": "{icon}-15",
+                "text-field": "{title}",
+                "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+                "text-offset": [0, 0.1],
+                "text-anchor": "top"
+                }   
+        });
+});
+</script>
+
+</body>
+</html>
