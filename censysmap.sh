@@ -6,7 +6,7 @@ if [[ $1 -eq 1 ]]; then
     echo "Runnin censys for 100 targets"
     censys_io.py GoAhead \
       --api_id=<own censys.io api> \
-      --api_secret=<own censys.io api>  \
+      --api_secret=<own censys.io secret>  \
       --limit 100 --tsv -f ip,protocols |grep "\/http" \
        > Goahead_targets.json
     
