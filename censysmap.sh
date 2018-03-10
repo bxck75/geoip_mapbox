@@ -1,22 +1,31 @@
 #!/bin/bash
 
+
+#get api key and secret
+Key=$(cat apikey.ini |grep censys |awk -F ':' '{print $2}')
+Secret=$(cat apikey.ini |grep censys |awk -F ':' '{print $3}')
 #https://www.mapbox.com/mapbox-gl-js/example/data-driven-circle-colors/
 #Get result
+
+
 if [[ $1 -eq 1 ]]; then
-    echo "Runnin censys for 100 targets"
-    censys_io.py GoAhead \
-      --api_id=<own censys.io api> \
-      --api_secret=<own censys.io secret>  \
-      --limit 100 --tsv -f ip,protocols |grep "\/http" \
-       > Goahead_targets.json
+    echo "Running censys for 100 targets"
+    # censys_io.py GoAhead \
+    #   --api_id=$Key \
+    #   --api_secret=$Secret  \
+    #   --limit 100 --tsv -f ip,protocols |grep "\/http" \
+    #    > Goahead_targets.json
     
     #filter out shit
     cat Goahead_targets.json         \
            |awk  '{print $1}'  >  ip.lst
+
 elif [[ $1 -eq 2 ]];then
-    nmap -iR 1000 -p 81 -Pn -n --open -oG - | awk '/Up$/{print $2}' > ip.lst
+    nmap -vvv -iR $2 -p 81 -Pn -n --open -oG - | awk '/Up$/{print $2}' > ip.lst
+cat ip.lst
 elif [[ $1 -eq 3 ]]; then
     cat $2 > ip.lst
+
 fi
 
 
@@ -26,7 +35,8 @@ fi
 for i in $(cat ip.lst |sort -u); do 
 	echo $i
     IP=$(echo $i |awk -F ':' '{print $1}')
-	echo $IP":" >> ip_geo_loc.lst
+    PORT=$(echo $i |awk -F ':' '{print $2}')
+    echo $IP":" >> ip_geo_loc.lst
 	command geoiplookup $IP -f /usr/bin/GeoLiteCity.dat |awk -F ',' '{print $7":"$8}' |tr -d ' ' >> ip_geo_loc.lst
 done
 
@@ -70,7 +80,7 @@ sed -i '$ s/.$//' outputfile.json
 echo ']}' >> outputfile.json
 
 
-TEMPLATE=$(cat map_template.txt)
+TEMPLATE=$(cat map_template_content.txt)
 #TEMPLATE=$(cat map_template_heat.txt)
 JSON=$(cat outputfile.json)
 
@@ -78,3 +88,4 @@ part1=$(echo $TEMPLATE |awk -F '__REPLACE_THIS__' '{print $1}')
 part2=$(echo $TEMPLATE |awk -F '__REPLACE_THIS__' '{print $2}')
 
 echo $part1$JSON$part2 > map.html
+xterm -hold -e 'firefox map.html' &

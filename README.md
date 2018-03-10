@@ -46,3 +46,4 @@ version 2.1 or later.
 ## Thanks ##
 
 Thanks to K00B404
+cp censys_io.py /usr/bin/censys_io.py

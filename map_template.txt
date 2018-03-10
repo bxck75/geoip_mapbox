@@ -26,6 +26,11 @@ var map = new mapboxgl.Map({
 
 map.on('load', function () {
 
+    map.on('mousemove', function (e) {
+        var features = map.queryRenderedFeatures(e.point);
+        document.getElementById('features').innerHTML = JSON.stringify(features, null, 2);
+    });
+    
     map.addLayer({
         "id": "points",
         "type": "symbol",

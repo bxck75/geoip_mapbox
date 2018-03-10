@@ -5,10 +5,886 @@
                     "type": "Feature",
                     "geometry": {
                         "type": "Point",
-                        "coordinates": [-68.833298, -33.066700]
+                        "coordinates": [GeoIP, 80]
                     },
                     "properties": {
-                        "title": "190.15.207.3", 
+                        "title": "217.128.54.69", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "City", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Edition,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Rev", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "1", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "FR,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "48.858200,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "2.338700,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [GeoIP, 80]
+                    },
+                    "properties": {
+                        "title": "191.243.237.226", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "City", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Edition,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Rev", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "1", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "BR,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "-22.830500,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "-43.219200,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [GeoIP, 80]
+                    },
+                    "properties": {
+                        "title": "91.243.3.168", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "City", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Edition,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Rev", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "1", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "UA,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "06,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Ivano-Frankivs'ka", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Oblast',", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Ivanofrankovsk,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "76005,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "48.921501,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "24.709700,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [GeoIP, 80]
+                    },
+                    "properties": {
+                        "title": "168.181.153.155", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "City", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Edition,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Rev", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "1", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "BR,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "08,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Espirito", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Santo,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Mantenopolis,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "-18.863400,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "-41.122700,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [GeoIP, 80]
+                    },
+                    "properties": {
+                        "title": "177.126.226.198", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "City", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Edition,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Rev", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "1", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "BR,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "27,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Sao", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Paulo,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Sao", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "Paulo,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "N/A,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "-23.573299,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "-46.641701,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0,", 
+			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
+                        "icon": "star"
+                    }
+                },
+{
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [, ]
+                    },
+                    "properties": {
+                        "title": "0", 
 			"description": "<strong>Capital Pride Parade</strong><p>The annual <a href=\"http://www.capitalpride.org/parade\" target=\"_blank\" title=\"Opens in a new window\">Capital Pride Parade</a></p>",
                         "icon": "star"
                     }
